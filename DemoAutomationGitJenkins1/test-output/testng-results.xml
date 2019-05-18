@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="74731" started-at="2019-05-18T08:43:15Z" finished-at="2019-05-18T08:44:29Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="74731" started-at="2019-05-18T08:43:15Z" finished-at="2019-05-18T08:44:29Z">
+      <class name="com.test.LoginVerification">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.LoginVerification@2be94b0f]" name="setUp" is-config="true" duration-ms="5055" started-at="2019-05-18T14:13:15Z" finished-at="2019-05-18T14:13:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.test.LoginVerification@2be94b0f]" name="loginTest" duration-ms="68777" started-at="2019-05-18T14:13:20Z" finished-at="2019-05-18T14:14:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tierDown()[pri:0, instance:com.test.LoginVerification@2be94b0f]" name="tierDown" is-config="true" duration-ms="874" started-at="2019-05-18T14:14:28Z" finished-at="2019-05-18T14:14:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tierDown -->
+      </class> <!-- com.test.LoginVerification -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

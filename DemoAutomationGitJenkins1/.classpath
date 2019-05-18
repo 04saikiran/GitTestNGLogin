@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/PracticeSelenium/Jars/Jar314159/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="D:/PracticeSelenium/Jars/Jar314159/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/PracticeSelenium/Jars/Jar314159/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="D:/PracticeSelenium/Jars/Jar314159/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/PracticeSelenium/Jars/Jar314159/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="D:/PracticeSelenium/Jars/Jar314159/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/PracticeSelenium/Jars/Jar314159/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/PracticeSelenium/Jars/Jar314159/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/PracticeSelenium/Jars/Jar314159/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/PracticeSelenium/Jars/Jar314159/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
